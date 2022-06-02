@@ -72,12 +72,61 @@ export default [
   {
     'id': 8,
     'title': 'Rancid Tomatillos',
-    'description': 'The application is a hotel management tool where customers can log in, book a room, and view both their past and future reservations. This was the final solo project for Mod 2 of the Front End Engineering program at the Turing School of Software & Design.',
+    'description': 'Rancid Tomatillos is an easy-to-use web application for viewing movie posters, details and trailers.',
     'github_repository': 'https://github.com/cagallo/rancid-tomatillos',
     'external_link': 'https://rancid-tomatillos2110.herokuapp.com/',
     'project_type': 'pair',
-    'tech_stack': ['Vanilla JS', 'HTML', 'SASS', 'Mocha', 'Chai', 'TDD', 'Rest API', 'webpack', 'moment.js'],
-    'img': 'https://user-images.githubusercontent.com/78453792/150062585-97dec410-3d5d-4f09-936e-c2973a34dd3f.gif'
+    'tech_stack': ['React', 'React Router', 'HTML', 'CSS', 'Cypress', 'Rest API', 'webpack', 'day.js', 'PropTypes', 'Heroku'],
+    'img': 'https://user-images.githubusercontent.com/78453792/153780939-7df21bbb-41cf-4440-9f77-09f8e0c88773.gif'
   },
-
+  {
+    'id': 9,
+    'title': 'Book Club UI',
+    'description': 'Welcome to Book Club--your new go-to app where you can find out all the details about the latest bestsellers! If you are a book lover, you have come to the right place.',
+    'github_repository': 'https://github.com/cagallo/book-club-ui',
+    'external_link': 'https://book-club-ui.herokuapp.com/',
+    'project_type': 'group',
+    'tech_stack': ['React', 'React Router', 'HTML', 'CSS', 'Cypress', 'Rest API', 'webpack', 'day.js', 'PropTypes', 'Heroku'],
+    'img': 'https://camo.githubusercontent.com/67642f26953c54e1fb35cbc70327b0ed4e8018ac1992e3ed8beb29da4286c1eb/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f375139555830365a364662423430776445502f67697068792e676966'
+  },
+  {
+    'id': 10,
+    'title': 'Book Club API',
+    'description': 'Book Club API is a collection of books taken from the NY Times best sellers list. It was created to accompany Book Club UI',
+    'github_repository': 'https://github.com/cagallo/book-club-ui',
+    'external_link': 'https://book-club-api-2110.herokuapp.com/api/v1/books',
+    'project_type': 'group',
+    'tech_stack': [ 'Express', 'Node', 'Postgres', 'Knex', 'Postman', 'PGAdmin14', 'Heroku'],
+    'img': null
+  },
+  {
+    'id': 11,
+    'title': 'Trivia Night',
+    'description': 'Trivia Night is an trivia questions game that allows the user to test their trivia knowledge from a variety of topics or choose a mix of questions from all categories.',
+    'github_repository': 'https://github.com/cagallo/trivia-night-ui',
+    'external_link': 'https://trivia-night-ui.herokuapp.com/',
+    'project_type': 'solo',
+    'tech_stack': ['React', 'React Router', 'HTML', 'CSS', 'Cypress', 'Rest API', 'webpack', 'PropTypes', 'Heroku'],
+    'img': 'https://camo.githubusercontent.com/67642f26953c54e1fb35cbc70327b0ed4e8018ac1992e3ed8beb29da4286c1eb/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f375139555830365a364662423430776445502f67697068792e676966'
+  },
+  {
+    'id': 12,
+    'title': 'Trivia Questions API',
+    'description': 'Trivia Questions API is a collection of trivia questions from various categories and it was created to accompany Trivia Night UI',
+    'github_repository': 'https://github.com/cagallo/trivia-questions-api',
+    'external_link': 'https://trivia-night-api-2110.herokuapp.com/api/v1/questions/all',
+    'project_type': 'solo',
+    'tech_stack': [ 'Express', 'Node', 'Postgres', 'Knex', 'Postman', 'PGAdmin14', 'Heroku'],
+    'img': null
+  },
+  {
+    'id': 13,
+    'title': 'No Use Cryin Over Shared Milk',
+    'description': 'No Use Cryin Over Shared Milk is an application that enables families that are dealing with an under-production of breast milk to connect with families that are over-producing breast milk in a free and easily accessible manner.',
+    'github_repository': 'https://github.com/Shared-Milk/shared-milk-ui',
+    'external_link': 'https://no-use-cryin-over-shared-milk.herokuapp.com/',
+    'project_type': 'group',
+    'tech_stack': ['React', 'React Router', 'GraphQL', 'Apollo Client', 'HTML', 'SASS', 'CircleCI', 'Cypress', 'Rest API', 'webpack', 'PropTypes', 'Heroku'],
+    'img': null
+  }
 ]
