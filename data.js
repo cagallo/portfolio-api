@@ -127,6 +127,6 @@ export default [
     'external_link': 'https://no-use-cryin-over-shared-milk.herokuapp.com/',
     'project_type': 'group',
     'tech_stack': ['React', 'React Router', 'GraphQL', 'Apollo Client', 'HTML', 'SASS', 'CircleCI', 'Cypress', 'Rest API', 'webpack', 'PropTypes', 'Heroku'],
-    'img': null
+    'img': 'https://github.com/Shared-Milk/shared-milk-ui/raw/main/.github/Site-Overview.gif'
   }
 ]
