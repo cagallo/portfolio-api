@@ -1,3 +1,3 @@
 # portfolio-api
 
-Deployed API- GET - [https://chez-portfolio-api.herokuapp.com/projects]
+(Deployed API--only supports GET) [https://chez-portfolio-api.herokuapp.com/projects]
